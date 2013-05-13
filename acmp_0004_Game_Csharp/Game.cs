@@ -21,7 +21,11 @@ namespace acmp_0004_Game_Csharp
         {
             int result = 0;
 
+            int firstDigit = number;
+            int secondDigit = 9;
+            int thirdDigit = secondDigit - firstDigit;
 
+            result = firstDigit * 100 + secondDigit * 10 + thirdDigit;
 
             return result;
         }

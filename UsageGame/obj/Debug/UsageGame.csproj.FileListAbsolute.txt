@@ -1,0 +1,7 @@
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UsageGame\bin\Debug\UsageGame.exe.config
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UsageGame\bin\Debug\UsageGame.exe
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UsageGame\bin\Debug\UsageGame.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UsageGame\bin\Debug\acmp_0004_Game_Csharp.dll
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UsageGame\bin\Debug\acmp_0004_Game_Csharp.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UsageGame\obj\Debug\UsageGame.exe
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UsageGame\obj\Debug\UsageGame.pdb

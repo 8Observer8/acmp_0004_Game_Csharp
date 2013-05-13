@@ -1,0 +1,7 @@
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UnitTestGame\bin\Debug\UnitTestGame.dll
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UnitTestGame\bin\Debug\UnitTestGame.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UnitTestGame\bin\Debug\acmp_0004_Game_Csharp.dll
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UnitTestGame\bin\Debug\acmp_0004_Game_Csharp.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UnitTestGame\obj\Debug\UnitTestGame.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UnitTestGame\obj\Debug\UnitTestGame.dll
+D:\Documents\C#\Acmp\Problems\acmp_0004_Game_Csharp_Sol\UnitTestGame\obj\Debug\UnitTestGame.pdb

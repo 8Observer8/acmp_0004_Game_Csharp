@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "acmp_0004_Game_Csharp", "acmp_0004_Game_Csharp\acmp_0004_Game_Csharp.csproj", "{A1FF52F4-9E93-40A0-B6B1-5410FA5A683B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGame", "UnitTestGame\UnitTestGame.csproj", "{5F8FD7ED-9A1A-4931-BE59-B75F1507E83C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsageGame", "UsageGame\UsageGame.csproj", "{D41440E9-D465-4DC9-A410-96577903E8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FF52F4-9E93-40A0-B6B1-5410FA5A683B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FF52F4-9E93-40A0-B6B1-5410FA5A683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FF52F4-9E93-40A0-B6B1-5410FA5A683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FF52F4-9E93-40A0-B6B1-5410FA5A683B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8FD7ED-9A1A-4931-BE59-B75F1507E83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8FD7ED-9A1A-4931-BE59-B75F1507E83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8FD7ED-9A1A-4931-BE59-B75F1507E83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8FD7ED-9A1A-4931-BE59-B75F1507E83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41440E9-D465-4DC9-A410-96577903E8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41440E9-D465-4DC9-A410-96577903E8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41440E9-D465-4DC9-A410-96577903E8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41440E9-D465-4DC9-A410-96577903E8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
